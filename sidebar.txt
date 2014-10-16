@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bet:home|Door43 (bet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bet|d43-bet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bet/archive/master.zip|d43-bet.zip]]
+
+**Recent Changes**
+{{changes>ns = bet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bet|Ethnologue data]]
+
